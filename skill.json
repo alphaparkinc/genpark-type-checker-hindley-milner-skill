@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-type-checker-hindley-milner-skill",
+  "version": "1.0.0",
+  "description": "Hindley-Milner polymorphic type inference engine with Algorithm W unification and occurs check.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
